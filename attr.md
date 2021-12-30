@@ -15,7 +15,7 @@
     document.querySelector(".my_class").removeAttribute("type");
 
 
-#ALSO
+# ALSO
 
     /* All Attributes */
     let allAttributes = document.querySelector(".my_class").attributes;
