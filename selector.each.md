@@ -13,3 +13,9 @@
     myClass.forEach(function (element, index) {
         /* CODE HERE */
     })
+    
+    /* OR */
+    
+    myClass.forEach(element => {
+        /* CODE HERE */
+    })   
